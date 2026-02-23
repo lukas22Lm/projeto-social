@@ -45,8 +45,14 @@ pois não quebra o fluxo da página.
     width: 311px;
   
     background:  url(imagens/frame-iphone.png) no-repeat
+}
 
-
+iframe#tela{
+    position: relative;
+    top: 80px;
+    left: 22px;
+    height: 470px;
+    width: 268px;
 
 }
   
