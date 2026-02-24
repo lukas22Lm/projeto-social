@@ -52,7 +52,31 @@ iframe#tela{
     top: 80px;
     left: 22px;
     height: 470px;
-    width: 268px;
+    width: 267px;
 
+}
+
+
+/*caso vc queira do outro lado
+
+section#redes-sociais{
+    text-align: right;
+
+*/
+
+section#redes-sociais img{
+    width: 50px;
+    margin: 10px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px black;
+    box-sizing: border-box;
+    
+}
+
+
+section#redes-sociais img:hover{
+    border: 2px solid rgba(255, 255, 255, 0.637);
+    
+ 
 }
   
